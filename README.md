@@ -2,7 +2,7 @@
 Projeto construido durante o next level week 01
 
 <h3 align="center">
-    <img alt="Logo" title="logo" width="300px" src="./img/logo.png">
+    <img alt="Logo" title="logo" width="300px" src="https://github.com/LeoTexx/Ecoleta-NLW01/blob/master/ecoleta_logo.png">
     <br><br>
     <b>O marketplace ideal para reciclar! ♻️</b> 
 </h3>
